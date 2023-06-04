@@ -1,14 +1,9 @@
 html{
-  box-type : border-box ;
   background-color : hsl(217, 54%, 11%);
 }
 
-*,*:after,*:before{
-  box-type : inherit;
-}
-
 #main{
-  margin: 0 auto;
+  margin : 0 auto;
   font-family :Outfit;
   font-size : 18px;
   width : 350px;
